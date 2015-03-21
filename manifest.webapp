@@ -1,6 +1,6 @@
 {
   "name": "Nuke All Contacts",
-  "description": "USE CAREFULLY AT YOUR OWN RISK, there is no undo. An app to erase all contacts in your phone. Useful when you want to delete all contacts and you don't want to restore your device and lost all your apps and other data.",
+  "description": "USE CAREFULLY AT YOUR OWN RISK, there is no undo. An app that erases all contacts in your phone. Useful when you want to delete all contacts and you don't want to restore your device and lost all your apps and other data.",
   "version": "1.0.0",
   "launch_path": "/index.html",
   "icons": {
