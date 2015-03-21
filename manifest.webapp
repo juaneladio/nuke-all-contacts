@@ -1,0 +1,32 @@
+{
+  "name": "Nuke All Contacts",
+  "description": "USE CAREFULLY AT YOUR OWN RISK, there is no undo. An app to erase all contacts in your phone. Useful when you want to delete all contacts and you don't want to restore your device and lost all your apps and other data.",
+  "version": "1.0.0",
+  "launch_path": "/index.html",
+  "icons": {
+    "32": "/images/icon_32.png",
+    "60": "/images/icon_60.png",
+    "90": "/images/icon_90.png",
+    "120": "/images/icon_120.png",
+    "128": "/images/icon_128.png",
+    "256": "/images/icon_256.png"
+  },
+  "developer": {
+    "name": "Juan Eladio",
+    "url": "https://github.com/juaneladio"
+  },
+  "locales": {
+    "es": {
+      "name": "Nuke All Contacts",
+      "description": "USAR CON CUIDADO Y BAJO TU PROPIO RIESGO, no hay deshacer. Una aplicación para borrar todos los contactos de tu teléfono. Útil cuando quieres borrar todos los contactos y no quieres restaurar tu dispositivo y perder todas tus apps y otros datos."
+    }
+  },
+  "default_locale": "en",
+  "type": "privileged",
+  "permissions": {
+    "contacts":{
+      "description": "See all contacts in order to remove them.",
+      "access": "readwrite"
+    }
+  }
+}
